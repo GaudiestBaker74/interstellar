@@ -185,6 +185,8 @@ const SplashT = [
   "Subscribe to my Youtube (@xbubbo)",
   "Check out the settings page",
   "Check out our Patreon (https://www.patreon.com/gointerstellar)",
+  "Modified by N3bula-Unblocked Dev Team 💪",
+  "Check out our website: (https://sites.google.com/view/n3bula-unblocked)",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
